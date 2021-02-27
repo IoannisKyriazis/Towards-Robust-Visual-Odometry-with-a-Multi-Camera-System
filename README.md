@@ -7,3 +7,5 @@ Ioannis Kyriazis
 Apostolos Mamoulellis
 
 Language: Greek (Ελληνικά)
+
+Copyright © 2018 by Ioannis Kyriazis and Apostolos Mamoulellis - All Rights Reserved
