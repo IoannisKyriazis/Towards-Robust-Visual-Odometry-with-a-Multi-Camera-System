@@ -8,4 +8,4 @@ Apostolos Mamoulellis
 
 Language: Greek (Ελληνικά)
 
-Copyright © 2018 by Ioannis Kyriazis and Apostolos Mamoulellis - All Rights Reserved
+Copyright © 2018 Ioannis Kyriazis and Apostolos Mamoulellis - All Rights Reserved
